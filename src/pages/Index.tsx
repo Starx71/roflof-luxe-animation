@@ -5,7 +5,7 @@ import AboutSection from '@/components/AboutSection';
 import ServicesPreview from '@/components/ServicesPreview';
 import ProcessSection from '@/components/ProcessSection';
 import ServicesMenu from '@/components/ServicesMenu';
-import Newsletter from '@/components/Newsletter';
+import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
 const Index = () => {
@@ -66,7 +66,7 @@ const Index = () => {
       <ServicesPreview />
       <ProcessSection />
       <ServicesMenu />
-      <Newsletter />
+      <Contact />
       <Footer />
     </main>
   );
